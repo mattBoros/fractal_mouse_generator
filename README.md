@@ -9,3 +9,8 @@ Below are some examples.
 ![Example1](https://github.com/mattBoros/fractal_mouse_generator/blob/master/Examples/100_300.png?raw=true)
 ![Example2](https://github.com/mattBoros/fractal_mouse_generator/blob/master/Examples/150_150.png?raw=true)
 ![Example3](https://github.com/mattBoros/fractal_mouse_generator/blob/master/Examples/150_350.png?raw=true)
+
+
+# How to Run
+-Make sure Python 3, PyGame, and Java are installed
+-Run Screen.py. The program will take a moment to load images, and then start
