@@ -13,4 +13,5 @@ Below are some examples.
 
 # How to Run
 -Make sure Python 3, PyGame, and Java are installed
+
 -Run Screen.py. The program will take a moment to load images, and then start
